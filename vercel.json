@@ -7,7 +7,7 @@
   ],
   "headers": [
     {
-      "source": "/Build/*",
+      "source": "/Build/(.*)",
       "headers": [
         {
           "key": "Cross-Origin-Opener-Policy",
